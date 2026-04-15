@@ -1,0 +1,23 @@
+{
+  "name": "darkdevell2026",
+  "displayName": "Dark Devell 2026",
+  "description": "This is Dark 2026 theme with new colors and highligted syntax",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "devell",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark 2026 devell",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-devell-2026-color-theme.json"
+      }
+    ]
+  }
+}
