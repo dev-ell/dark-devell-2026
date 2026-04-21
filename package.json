@@ -1,15 +1,35 @@
 {
   "name": "darkdevell2026",
-  "displayName": "Dark Devell 2026",
-  "description": "This is Dark 2026 theme with new colors and highligted syntax",
-  "version": "0.0.1",
+  "displayName": "Dark Devell 2026 - Premium Midnight Dark Theme",
+  "description": "A sophisticated, high-contrast midnight dark theme optimized for readability and reduced eye strain. Perfect for long coding sessions with vibrant syntax highlighting.",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "devell",
+  "icon": "images/dark-devell-2026-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-ell/dark-devell-2026"
+  },
   "engines": {
     "vscode": "^1.106.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark 2026",
+    "dark devell",
+    "dark devell 2026",
+    "devell",
+    "devell 2026",
+    "midnight",
+    "modern",
+    "high contrast",
+    "premium",
+    "theme",
+    "2026",
+    "eye-strain"
   ],
   "contributes": {
     "themes": [
